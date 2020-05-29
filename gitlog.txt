@@ -1,0 +1,59 @@
+commit 131c9584c6c1992a827fc8a414fb632c868e1c3a
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 21:25:42 2020 -0400
+
+    Fixed all bugs. Final version.
+
+commit 7ad63139c0ad4837299ab39e1d5e0ba5c7688331
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 13:36:51 2020 -0400
+
+    Fixed all makefile errors
+
+commit b1ee7be61b04cb440b2392f7ddef3669cb78f196
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 11:35:05 2020 -0400
+
+    Added header files, fixed all bugs
+
+commit 0d2e51921359f14fa0c9459045d0125a77035186
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 10:13:41 2020 -0400
+
+    Fixed bugs for utils.c
+
+commit 156dbcc2e80000afe5d486c247b7d6a38aa4dc05
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 19:57:18 2020 -0400
+
+    Fixed bugs, finished poly.c
+
+commit 22ff2551e22e00b5a876017a940009b731ffc677
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 19:56:51 2020 -0400
+
+    Makefile added
+
+commit 8702f8ce41d003a853155732bc6b12f7f74d8476
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 16:13:25 2020 -0400
+
+    Finished poly.c main function
+
+commit 607c73c9e0b65b90a84615ad48875c7171e261ed
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 16:10:43 2020 -0400
+
+    Finished poly.c main function
+
+commit 26a6692ba689ff9f4b59badb0d7b28423d415b7f
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 15:47:48 2020 -0400
+
+    Completed the initial version of poly.c
+
+commit 732185682e29f60e527a0be8abe05ad3d487a9fd
+Author: Antoine BONNET <abonne25@teaching.CS.McGill.CA>
+Date:   Fri Apr 10 11:00:24 2020 -0400
+
+    Initial version of polydata.csv, polyapp.c and poly.c
